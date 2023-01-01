@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671367902 source:f:\iti\oop\lab1oop\main.cpp
+	<iostream>
+	"complix.h"
+
+1671362014 f:\iti\oop\lab1oop\include\complix.h
+
+1671368505 source:f:\iti\oop\lab1oop\src\complix.cpp
+
